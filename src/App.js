@@ -11,6 +11,7 @@ import Accessories from "./pages/Accessories";
 import ForgotPassword from "./pages/ForgotPassword";
 import SignUp from "./pages/SignUp";
 import Header from "./components/Header";
+
 function App() {
   return (
     <Router>
